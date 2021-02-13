@@ -24,3 +24,7 @@ hs_err_pid*
 # Eclipse workspace
 .metadata
 .recommenders
+
+Intellij Idea workspace
+.idea
+*.iml
